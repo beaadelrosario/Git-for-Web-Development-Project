@@ -7,10 +7,15 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     2. What is HTML used for? 
     It is used for the structure of our website.
     3. What is an attribute and where do we put it? 
+    An attribute is a special flag inside of a tag to give an element information.
     4. What is the h1 tag used for? How many times should I use it on a page?
+    The h1 tag is used to declare the most important header on the page. It should only be used once.
     5. Name two tags that have required attributes
+    Two tags that have required attributes is the a tag and the img tag.
     6. What do we put in the head of our HTML document? 
+    At the head of our HTML document, we should put the <html> tag.
     7. What is an id? 
+    An id is a title that can only appear on a single element.
     8. What elements can I add an id to? 
     9. How many times can I use the same id on a page? 
     10. What is a class? 
